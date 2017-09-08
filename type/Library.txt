@@ -1,0 +1,59 @@
+Adobe AIR runtime
+Android Asynchronous Http Client
+Android HttpURLConnection
+Anemone
+Apache-HttpAsyncClient
+Apache-HttpClient
+BinGet
+CFNetwork
+Chilkat HTTP .NET
+CsQuery
+cssutils
+cURL
+EventMachine
+Faraday
+Feed::Find
+FeedParser
+Go http package
+goose-extractor
+GStreamer
+Guzzle
+hackney
+HTMLayout
+HTTP_Request2
+Indy Library
+IXR lib
+Jakarta Commons-HttpClient
+Java
+LibSoup
+libwww-perl
+LWP::Simple
+MagpieRSS
+Manticore
+Mechanize
+OkHttp
+PEAR HTTP_Request
+PECL::HTTP
+PHP OpenID library
+PHPcrawl
+POE-Component-Client-HTTP
+PycURL
+Python-requests
+Python-urllib
+Python-webchecker
+RestSharp
+ROME library
+RPT-HTTPClient
+Ruby eat
+SimplePie
+Snoopy
+Summer
+Typhoeus
+urlgrabber
+WinHTTP
+WinInet Component Suite
+WWW::Mechanize
+xine
+XML-RPC for PHP
+XML-RPC for Ruby
+Zend_Http_Client

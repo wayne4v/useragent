@@ -1,0 +1,23 @@
+Banshee
+Boxxe
+CorePlayer
+Dailymotion player
+FlyCast
+foobar2000
+GOM Player
+iTunes
+KODI
+Miro
+MPlayer
+MPlayer2
+Plex Media Center
+Pocket Tunes
+Public Radio Player
+QuickTime
+RSS Radio
+Songbird
+SubStream
+VLC media player
+Winamp for Android
+Windows Media Player
+XMPlay

@@ -1,0 +1,229 @@
+2345 Explorer
+360 browser
+3DS Browser
+7 Star Browser
+Abolimba
+ABrowse
+Acoo Browser
+Alienforce
+Amaya
+Amiga Aweb
+Amiga Voyager
+Amigo
+ANT Fresco
+ANT Galio
+AOL Explorer
+AOL Shield
+Arachne
+Arora
+Avant Browser
+Avast SafeZone
+Aviator
+Avira Scout
+Baidu Browser
+Baidu Spark
+Beamrise
+Beonex
+Blackbird
+BlackHawk
+Bolt
+Brave
+BriskBard
+BrowseX
+Browzar
+Bunjalloo
+Camino
+Charon
+Chedot
+Cheshire
+Chrome
+Chrome Headless
+Chromium
+Chromodo
+Classilla
+Coc Coc
+Columbus
+CometBird
+Comodo Dragon
+Conkeror
+CoolNovo
+CoRom
+Crazy Browser
+Cuam
+Cunaguaro
+Cyberdog
+Cyberfox
+Deepnet Explorer
+Demeter
+DeskBrowse
+Dillo
+DocZilla
+Dooble
+DPlus
+Edbrowse
+Element Browser
+Elinks
+Enigma browser
+Epic
+Espial TV Browser
+Firebird (old name for Firefox)
+Firefox
+Firefox (BonEcho)
+Firefox (GranParadiso)
+Firefox (Lorentz)
+Firefox (Minefield)
+Firefox (Namoroka)
+Firefox (Shiretoko)
+Fireweb Navigator
+Flock
+Fluid
+Galeon
+GlobalMojo
+GNOME Web
+GreenBrowser
+HotJava
+Hv3
+Hydra Browser
+IBM WebExplorer
+IBrowse
+iCab
+ICE browser
+IceApe
+IceCat
+IceDragon
+IceWeasel
+IE
+InternetSurfboard
+iRider
+Iridium
+Iron
+K-Meleon
+K-Ninja
+Kapiko
+Kazehakase
+Kinza
+Kirix Strata
+KKman
+Konqueror
+Kylo
+LBrowser
+LG Web Browser
+Line Mode Browser
+Links
+Lobo
+lolifox
+luakit
+Lunascape
+Lynx
+Madfox
+Maple browser
+Maxthon
+Microsoft Edge
+Midori
+Min
+Mini Browser
+Mozilla
+Multi-Browser XP
+MultiZilla
+MxNitro
+My Internet Browser
+NCSA Mosaic
+NetBox
+NetCaptor
+NetPositive
+Netscape Navigator
+NetSurf
+Nintendo Switch Browser
+Off By One
+OmniWeb
+Opera
+Opera Neon
+Orca
+Oregano
+Otter
+OWB (Odyssey Web Browser)
+OWB (Origyn Web Browser)
+Pale Moon
+Patriott
+Perk
+Phaseout
+Phoenix (old name for Firefox)
+PirateBrowser
+Polarity
+PS4 Web browser
+Qiyu Swordfish Browser
+QQbrowser
+QtWeb
+QupZilla
+qutebrowser
+Rambler browser
+Rekonq
+retawq
+Roccat browser
+RockMelt
+Ryouko
+SaaYaa Explorer
+Safari
+Salam Browser
+Samsung TV Browser
+SeaMonkey
+Secure browser
+Seraphic Sraf
+Seznam.cz browser
+Shiira
+SiteKiosk
+SkipStone
+Slack App
+Sleipnir
+SlimBoat
+SlimBrowser
+Sogou Explorer
+Spark Security Browser
+Sputnik Browser
+Stainless
+Sundance
+Sundial
+Sunrise
+Superbird
+Surf
+Swiftfox
+Swiftweasel
+Sylera
+t-online.de Browser
+TenFourFox
+Tesla Car Browser
+TheWorld Browser
+Tjusig
+TT Explorer
+Tulip Chain
+Tungsten
+Twitter App
+UC Browser
+UltraBrowser 
+UR Browser
+Usejump
+Uzbl
+Vimb
+Vivaldi
+Vonkeror
+w3m
+Waterfox
+WbBrowse
+Web Explorer
+Webian Shell
+WebPositive
+WebRender
+Webster
+Weltweitimnetz Browser
+Whale
+WIB
+Wii U Internet Browser
+wKiosk
+WorldWideWeb
+Wyzo
+X-Smiles
+Xvast
+Yandex.Browser
+YRC Weblink
+zBrowser
+ZipZap

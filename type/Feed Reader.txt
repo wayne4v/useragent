@@ -1,0 +1,40 @@
+Abilon
+Akregator
+Apple-PubSub
+Awasu
+BlogBridge
+Bloglines
+CPG Dragonfly RSS Module
+Digg Reader
+Fastladder FeedFetcher
+Feed Viewer
+FeedDemon
+Feedfetcher-Google
+GreatNews
+Gregarius
+iCatcher!
+IE RSS reader
+InoReader
+Liferea
+LuckNews
+NetNewsWire
+Newsbeuter
+NewsBreak
+NewsFox
+NewsGatorOnline
+NFReader
+Omea Reader
+QuiteRSS
+Reeder
+Rss Bandit
+RSS Menu
+RSS Popper
+RSSOwl
+Safari RSS reader
+Sage
+Seznam RSS reader
+SharpReader
+Shrook
+Trileet NewsRoom
+YahooFeedSeeker
+YeahReader
